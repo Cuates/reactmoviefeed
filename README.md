@@ -7,6 +7,7 @@ React Movie Feed
 * [Prerequisite Environment](#prerequisite-environment)
 * [Prerequisite React Modules](#prerequisite-react-modules)
 * [React Manual Execution](#react-manual-execution)
+* [Modify the following files to change the custom uri](#modify-the-following-files-to-change-the-custom-uri)
 
 ### Version
 * 0.0.1
