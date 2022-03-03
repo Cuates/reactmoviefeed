@@ -96,3 +96,18 @@ React Movie Feed
   * `cd /root/project/directory`
 * Build react project for production
   * `npm run build`
+
+### Modify the following files to change the custom uri
+* Navigate to the root project dicrectory
+  * `cd /root/project/directory`
+  * Open the package.json file and modify the homepage line
+    * "homepage": "/<uri_name>/",
+* Navigate to the src dicrectory
+  * `cd /root/project/src/directory`
+  * Open the App.js file and modify any line that needs the uri name
+    * "/<uri_name>/"
+* Navigate to any file that needs the new uri name
+* Change into the root project directory
+  * `cd /root/project/directory`
+* Build react project for production
+  * `npm run build`
