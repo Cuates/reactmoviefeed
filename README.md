@@ -6,6 +6,7 @@ React Movie Feed
 * [Important Note](#important-note)
 * [Prerequisite Environment](#prerequisite-environment)
 * [Prerequisite React Modules](#prerequisite-react-modules)
+* [Generating React App with extra features](#generating-React-App-with-extra-features)
 * [React Manual Execution](#react-manual-execution)
 * [Modify the following files to change the custom uri](#modify-the-following-files-to-change-the-custom-uri)
 
@@ -33,6 +34,8 @@ React Movie Feed
   * Find out the React and React Native version via command line tool
     * `npm view react version`
     * `npm view react-native version`
+
+### Generating React App with extra features
 * Generate React App
   * Navigate to project
     * `cd /path/of/project/location/`
